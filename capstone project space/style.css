@@ -1,0 +1,33 @@
+
+
+
+body{
+	text-align: center;
+	background: linear-gradient( 
+#ffffff 0%,  #42a4f5 20%, #42f5b3 40%,#f54242 60%,#f5bf42 80%,#f8fc05 100%);
+}
+#slides{
+	border-image-width: 100px;
+}
+.list{
+    
+    padding-left: 10px;
+    padding-bottom: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+    font-family: fantasy;
+    font-size: 20px;
+    color:blueviolet;
+	 display: inline;
+}
+#ID {
+ width: 100px;
+	height: 550px;
+}
+.preloader{
+	background: #000 url(1054066.gif) no-repeat center center;
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	z-index: 100;
+}
